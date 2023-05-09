@@ -1,6 +1,7 @@
 {
   "name": "ngx-dynamic-order",
-  "version": "0.0.1",
+  "version": "15.0.0",
+  "description": "Angular dynamic order",
   "peerDependencies": {
     "@angular/common": "^15.2.0",
     "@angular/core": "^15.2.0"
@@ -8,5 +9,30 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mustafaer/ngx-dynamic-search.git"
+  },
+  "url": "https://github.com/mustafaer/ngx-dynamic-search/issues",
+  "email": "mustafaerpro@gmail.com",
+  "author": "Mustafa Er",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular15",
+    "public",
+    "dynamic",
+    "order"
+  ],
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/mustafaer"
+    },
+    {
+      "type": "buymeacoffee",
+      "url": "https://www.buymeacoffee.com/mustafaer"
+    }
+  ]
 }
