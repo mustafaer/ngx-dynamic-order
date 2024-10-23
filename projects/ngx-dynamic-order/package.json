@@ -1,6 +1,6 @@
 {
   "name": "ngx-dynamic-order",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "description": "Angular dynamic order",
   "peerDependencies": {
     "@angular/common": "^17.3.12",
