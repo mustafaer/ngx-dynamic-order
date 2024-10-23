@@ -5,7 +5,7 @@ This is an Angular pipe called `ngxDynamicOrder` that can sort an array of objec
 ## Installation
 To install this library, run:
 ```
-    npm i ngx-dynamic-search
+    npm i ngx-dynamic-order
 ```
 
 ## Usage
